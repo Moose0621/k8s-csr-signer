@@ -4,7 +4,6 @@ go 1.14
 
 require (
 	github.com/gogo/protobuf v1.3.1
-	github.com/klauspost/compress v1.10.11 // indirect
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	github.com/onsi/gomega v1.10.2 // indirect
 	github.com/pelletier/go-toml v1.8.0 // indirect
@@ -14,7 +13,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.6.1
-	github.com/valyala/fasthttp v1.16.0
+	github.com/valyala/fasthttp v1.34.0
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
 	google.golang.org/genproto v0.0.0-20200831141814-d751682dd103 // indirect
 	google.golang.org/grpc v1.32.0
