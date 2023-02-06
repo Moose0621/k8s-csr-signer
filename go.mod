@@ -23,7 +23,7 @@ require (
 	istio.io/api v0.0.0-20200828230038-701568332f0f
 	istio.io/istio v0.0.0-20200831162021-362e3d808028
 	istio.io/pkg v0.0.0-20200819194923-e8c102c633f0 // indirect
-	k8s.io/api v0.19.2
-	k8s.io/apimachinery v0.19.2
-	k8s.io/client-go v0.19.0
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
+	k8s.io/client-go v0.20.0
 )
